@@ -16,9 +16,3 @@ $ git clone --recursive git@github.com:Eidwinds/a_and_d_web_hokkaido.git
 $ composer install
 $ php oil r migrate
 ```
-
-## Create Admin User
-
-``` shell
-$ php oil r user:createAdmin [email] [password]
-```
