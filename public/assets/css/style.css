@@ -1,0 +1,9 @@
+.navbar-default, footer{
+    background-color: #ccffcc;
+    border: none;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+}

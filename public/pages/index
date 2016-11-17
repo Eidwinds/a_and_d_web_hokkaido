@@ -1,0 +1,31 @@
+	<div class="row">
+		<h1 class="text-center">ようこそ！A&D株式会社のホームページへ！</h1>
+		<div class="text-center">
+		    <br>
+		    <br>
+		    <br>
+		    弊社へのご質問は、<br>
+		    <a href="/inquiry">こちらから</a><br><br>
+		    製品に関する情報は、<br>
+		    <a href="/board">こちらから</a>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <div class="text-right"><a href="/admin">管理ページへ</a></div>
+		</div>
+	</div>

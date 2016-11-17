@@ -1,0 +1,11 @@
+	<div class="row">
+		<h1>お知らせ一覧</h1>
+		<table class="table table-striped">
+			<tr>
+				<th>2016/11/18 ホームページリニューアル！</th>
+			</tr>
+			<tr>
+                <td>ホームページをリニューアルしました！</td>
+            </tr>
+		</table>
+	</div>
